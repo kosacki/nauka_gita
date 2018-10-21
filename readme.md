@@ -3,3 +3,5 @@
 pierwsze repo
 
 poczatek
+
+po edycji 
