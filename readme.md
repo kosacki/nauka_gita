@@ -9,3 +9,4 @@ po edycji
 poprawka
 
 zmiana readme
+.
