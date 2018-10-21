@@ -4,4 +4,6 @@ pierwsze repo
 
 poczatek
 
-po edycji 
+po edycji
+
+poprawka
